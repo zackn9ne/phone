@@ -2,5 +2,6 @@
 
 Shellscript to open Google voice in chrome
 
-![finder]
-(https://raw.githubusercontent.com/zackn9ne/phone/master/Screenshot%202016-07-26%2015.25.39.png)
+1. Clone or download this repo
+2. run `./setup.sh`
+3. press `ctrl + i` to get info and paste in the icon
