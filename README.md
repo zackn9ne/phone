@@ -1,6 +1,6 @@
 # phone
 
-Shellscript to open Google voice in chrome
+Shellscript/OSX App(let) to open Google voice in chrome
 
 1. Clone or download this repo
 2. run `./setup.sh`
